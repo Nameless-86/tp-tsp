@@ -13,4 +13,4 @@ Consultar enunciado en el campus virtual de la materia.
 ## Requerimientos
 * Python 3.10 o superior (https://www.python.org/downloads/).
 * tsplib95.
-* matplotlib.
+* matplotlib.# tp-traveling
